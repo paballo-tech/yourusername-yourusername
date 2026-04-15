@@ -1,5 +1,6 @@
-# yourusername-yourusername
+# paballo-tech/paballo-tech
 # Hi, I'm Paballo Mamabolo 👋
+🚀 Building secure systems | 📊 Turning data into insights | 🔐 Future Cybersecurity Specialist
 
 🎓 Information Systems Student  
 🔐 Aspiring Cybersecurity Analyst (CompTIA Security+)  
